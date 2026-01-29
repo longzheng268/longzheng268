@@ -1,3 +1,10 @@
+既然你希望完全使用原版的结构，我已将代码中的用户名全部替换为你的 `longzheng268`。
+
+**注意：** 因为 `` 区域内的内容是由脚本自动生成的，我为你保留了原版的样式作为模板。只要你配置好 Action，这些数据会自动更新为你自己的。
+
+### 📄 完整 README.md
+
+```markdown
 - 👋 Hi, I’m @longzheng268
 
 - 📫 [https://lz-0315.com](https://lz-0315.com)
@@ -11,9 +18,40 @@
 ## Wakatime Stats
 
 ![Code Time](https://img.shields.io/badge/Code%20Time-Calculating...-blue?style=flat)
-![Profile Views](https://img.shields.io/badge/Views-Calculating...-blue?style=flat)
 
-**🐱 我的 GitHub 数据** > 📊 统计更新中...
+![Profile Views](https://img.shields.io/badge/Profile%20Views-Calculating...-blue?style=flat)
 
+![Lines of code](https://img.shields.io/badge/Lines%20of%20code-Calculating...-blue?style=flat)
+
+**🐱 我的 GitHub 数据** > 📦 使用了 0 MB GitHub 存储空间 
+ > 
+> 🏆 0 个贡献，在 2026 年
+ > 
+> 🚫 不开放招聘
+ > 
+> 📜 0 个公共仓库 
+ > 
+> 🔑 0 个私人仓库 
+ > 
 **我是夜猫 🦉** ```text
-等待 Action 运行后自动注入统计数据...
+数据加载中...
+
+```
+
+📅 **工作节拍** ```text
+数据加载中...
+
+```
+
+
+📊 **本周消耗时间** ```text
+🕑︎ 时区: Asia/Shanghai
+数据加载中...
+
+```
+
+**时间线**
+
+Last Updated on ```
+
+---
