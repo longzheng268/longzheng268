@@ -4,6 +4,8 @@
 ## GitHub Stats
 ![Snake!](https://raw.githubusercontent.com/longzheng268/longzheng268/snake-output/github-contribution-grid-snake-dark.svg)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=longzheng268&show_icons=true&theme=dark&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longzheng268&layout=compact&theme=tokyonight)
 
 ## Wakatime Stats
