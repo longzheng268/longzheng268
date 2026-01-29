@@ -20,4 +20,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SYMBOL_VERSION: "3"
           PUSH_BRANCH_NAME: "main"
-          IGNORED_REPOS: "GenshinImpact-Client-Version, WutheringWaves-UIResources, GCResource, GCProto, SRResource, end_7z, SRProto"
+          IGNORED_REPOS: "ChinaNet-EDU-Login-Web,Gansu-Telecom-Campus-Network-Bypasses-Verification"
