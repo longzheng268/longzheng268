@@ -10,6 +10,8 @@
 
 ## Wakatime Stats
 
-![Code Time](https://img.shields.io/badge/Code%20Time-Calculating...-blue?style=flat)
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C289%20hrs%2034%20mins-blue?style=flat)
+
 **时间线**
 ![Lines of Code chart](https://raw.githubusercontent.com/longzheng268/longzheng268/main/assets/bar_graph.png)
