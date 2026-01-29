@@ -19,4 +19,5 @@ jobs:
           UPDATED_DATE_FORMAT: "%d-%m-%Y %H:%M:%S"
           SHOW_LINES_OF_CODE: "True"
           SYMBOL_VERSION: "3"
+          PUSH_BRANCH_NAME: "main"
           IGNORED_REPOS: "GenshinImpact-Client-Version, WutheringWaves-UIResources, GCResource, GCProto, SRResource, end_7z, SRProto"
