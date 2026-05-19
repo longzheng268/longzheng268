@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @longzheng268
-- 🌏 [https://lz-0315.com](https://lz-0315.com)
+- 🌏 [https://www.lz-0315.com](https://www.lz-0315.com)
 - 📮 admin@lz-0315.com
 
 ## GitHub Stats
