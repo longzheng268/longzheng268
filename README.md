@@ -28,6 +28,18 @@
 
 </div>
 
+## 🔥 GitHub Roast
+
+<div align="center">
+
+  [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/longzheng268)](https://githubroast.dev/u/longzheng268)
+
+  <br>
+
+  [![GitHub Roast](https://githubroast.dev/api/card/longzheng268)](https://githubroast.dev/u/longzheng268)
+
+</div>
+
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
