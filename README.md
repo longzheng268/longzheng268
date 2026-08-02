@@ -43,9 +43,9 @@
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
@@ -90,47 +90,48 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    56 hrs 7 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜   85.51 % 
-HTML                     3 hrs 13 mins       ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.91 % 
-PHP                      1 hr 59 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.04 % 
-Git Config               1 hr 46 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.71 % 
-SQL                      57 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.45 % 
+Other                    59 hrs 9 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   87.32 % 
+HTML                     3 hrs 15 mins       ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.81 % 
+PHP                      1 hr 59 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.94 % 
+SQL                      57 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.40 % 
+JSON                     51 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.28 % 
 
 🔥 编辑器: 
-Edge                     58 hrs 21 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   88.91 % 
-VS Code                  7 hrs 16 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.09 % 
+Edge                     59 hrs 51 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   88.36 % 
+VS Code                  7 hrs 53 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.64 % 
 
 🐱‍💻 项目: 
-dnsmgr                   31 hrs 15 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   47.63 % 
-QuickAPI_Docs            7 hrs 56 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.10 % 
-dnsmanager               6 hrs 53 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.50 % 
-cc-switch                5 hrs 10 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.88 % 
-svy-auto-checkin         4 hrs 14 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.47 % 
+dnsmgr                   28 hrs 50 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   42.57 % 
+QuickAPI_Docs            7 hrs 56 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.72 % 
+Xiaomi                   7 hrs 3 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.42 % 
+dnsmanager               6 hrs 52 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.16 % 
+cc-switch                6 hrs 7 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.04 % 
 
 💻 操作系统: 
-Windows                  65 hrs 38 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Windows                  67 hrs 45 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 7 mins (10.86%)
+⏱ AI Coding Time: 7 hrs 41 mins (11.34%)
 
-✍️ 1,716 lines written by AI, 9 lines written by hand (99.48% AI-written)
+✍️ 2,561 lines written by AI, 10 lines written by hand (99.61% AI-written)
 
-🔤 418,510,806 Input Tokens, 557,277 Output Tokens
+🔤 421,486,841 Input Tokens, 582,208 Output Tokens
 
-💵 $1263.89 Estimated AI Cost This Week
+💵 $1273.19 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 182 AI Prompts
+🧠 16 AI Sessions, 201 AI Prompts
 
-LongCat                  2,581 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+LongCat                  2,581 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   71.52 % 
+Mimo                     1,028 lines         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.48 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.48% of written lines came from AI
-📄 Detailed Prompter — average 799 characters per prompt
+🤖 AI-Driven — 99.61% of written lines came from AI
+📄 Detailed Prompter — average 1,053 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 21.86% of changed lines were hand-edited
+🚀 High AI Trust — 28.28% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -150,5 +151,5 @@ TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/longzheng268/longzheng268/main/assets/bar_graph.png)
 
 
- Last Updated on 01-08-2026 04:08:35 UTC
+ Last Updated on 02-08-2026 04:11:09 UTC
 <!--END_SECTION:waka-->
