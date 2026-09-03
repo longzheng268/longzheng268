@@ -32,12 +32,9 @@
 
 <div align="center">
 
-  [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/longzheng268)](https://githubroast.dev/u/longzheng268)
-
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/longzheng268?lang=zh)](https://ghfind.com/u/longzheng268?ref=badge)
   <br>
-
-  [![GitHub Roast](https://githubroast.dev/api/card/longzheng268)](https://githubroast.dev/u/longzheng268)
-
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/longzheng268?lang=zh)](https://ghfind.com/u/longzheng268?ref=badge)
 </div>
 
 ## Wakatime Stats
