@@ -44,7 +44,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-7-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-20.75%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -52,7 +52,7 @@
 
 > 📦  使用了 5.3 MB GitHub 存储空间 
  > 
-> 🏆 402 个贡献，在 2026 年
+> 🏆 403 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -87,52 +87,52 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    14 hrs 44 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   74.44 % 
-Python                   3 hrs 24 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.18 % 
-Markdown                 35 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.00 % 
-Git Config               31 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.67 % 
-HTML                     21 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.80 % 
+Other                    20 hrs 3 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   73.41 % 
+Python                   4 hrs 24 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.13 % 
+Markdown                 1 hr 18 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.77 % 
+Git Config               31 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.93 % 
+YAML                     26 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.60 % 
 
 🔥 编辑器: 
-Edge                     15 hrs 28 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   78.14 % 
-VS Code                  2 hrs 21 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.93 % 
-Claude Code              1 hr 57 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.93 % 
+Edge                     21 hrs 4 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   77.12 % 
+VS Code                  4 hrs 15 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.56 % 
+Claude Code              2 hrs               ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.32 % 
 
 🐱‍💻 项目: 
-warp                     8 hrs 57 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   45.30 % 
-xlsx_merge               7 hrs 6 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.89 % 
-cloudflare-v6-ddns-script2 hrs 48 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.17 % 
-thj-jw-birthday          32 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.78 % 
-瑾雯                       16 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.37 % 
+xlsx_merge               8 hrs 37 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.58 % 
+warp                     8 hrs 17 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.34 % 
+thj-jw-birthday          3 hrs 26 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.61 % 
+cloudflare-v6-ddns-script2 hrs 40 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.78 % 
+OpenList                 2 hrs 30 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.18 % 
 
 💻 操作系统: 
-Windows                  19 hrs 47 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Windows                  27 hrs 20 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 38 mins (18.43%)
+⏱ AI Coding Time: 5 hrs 21 mins (19.62%)
 
-✍️ 767 lines written by AI, 23 lines written by hand (97.09% AI-written)
+✍️ 821 lines written by AI, 32 lines written by hand (96.25% AI-written)
 
-🔤 32,149,602 Input Tokens, 150,570 Output Tokens
+🔤 35,878,861 Input Tokens, 281,942 Output Tokens
 
-💵 $135.42 Estimated AI Cost This Week
+💵 $159.47 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 103 AI Prompts
+🧠 13 AI Sessions, 119 AI Prompts
 
-GPT                      673 lines           ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   66.97 % 
-Deepseek                 225 lines           ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.39 % 
-Dots                     99 lines            ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.85 % 
-Agnes                    8 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.80 % 
+GPT                      673 lines           ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   63.55 % 
+Deepseek                 279 lines           ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.35 % 
+Dots                     99 lines            ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.35 % 
+Agnes                    8 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.76 % 
 Mimo                     0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.09% of written lines came from AI
-📝 Concise Prompter — average 110 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 2.33% of changed lines were hand-edited
+🤖 AI-Driven — 96.25% of written lines came from AI
+📝 Concise Prompter — average 273 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 3.81% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -152,5 +152,5 @@ TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/longzheng268/longzheng268/main/assets/bar_graph.png)
 
 
- Last Updated on 03-09-2026 13:52:25 UTC
+ Last Updated on 04-09-2026 05:07:01 UTC
 <!--END_SECTION:waka-->
